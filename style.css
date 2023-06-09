@@ -1,0 +1,20 @@
+body{
+    background-color: #000000;
+    color: #F6F6F6;
+}
+
+strong{
+    color: #22D4FD;
+}
+.imglogo{
+    position: block; 
+    margin: 50px 50px 50px 50px;
+    max-width: 70%;
+}
+
+#logoprincipal{
+    position: block;
+    top: 0;
+    right: 0;
+    width: 200px;
+}
