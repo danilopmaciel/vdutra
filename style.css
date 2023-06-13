@@ -1,19 +1,24 @@
 body{
     background-color: #000000;
     color: #F6F6F6;
+    text-align: center;
 }
 
 strong{
     color: #22D4FD;
 }
+
+.logos{
+    margin: 200px auto;
+}
+
 .imglogo{
-    position: block; 
-    margin: 50px 150px 50px 50px;
+    margin: 10px auto;
     max-width: 70%;
 }
 
 #logoprincipal{
-    position: block;
+    position: absolute;
     top: 0;
     right: 0;
     width: 200px;
